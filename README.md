@@ -1,0 +1,2 @@
+# ogstje
+research notes
